@@ -1,0 +1,5 @@
+{
+  "name": "hello",
+  "description": "Sample plugin proving the mirror serves installable plugins",
+  "version": "0.1.0"
+}
