@@ -4,13 +4,15 @@
     "name": "MyHeritage Internal AI"
   },
   "metadata": {
-    "description": "PoC sample marketplace served read-only by the ai-ext-marketplace-mirror Lambda"
+    "description": "PoC sample marketplace served read-only by the ai-ext-marketplace-mirror Lambda",
+    "version": "0.2.0"
   },
   "plugins": [
     {
       "name": "hello",
       "source": "./plugins/hello",
-      "description": "Sample plugin proving the mirror serves installable plugins"
+      "description": "Sample plugin proving the mirror serves installable plugins",
+      "version": "0.2.0"
     }
   ]
 }
